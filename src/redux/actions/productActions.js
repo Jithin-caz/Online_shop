@@ -18,3 +18,10 @@ export const removeSelectedProduct=()=>
         type:'removeSelectedProduct',
     }
 }
+
+export const loggedIn=()=>
+{
+    return{
+        type:'loggedIn'
+    }
+}
