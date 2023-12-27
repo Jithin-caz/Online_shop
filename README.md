@@ -8,3 +8,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 - This is a simple UI to understand the usage of Redux.
+use the following credentials to log in successfully:
+ username: "mor_2314", password: "83r5^_"
